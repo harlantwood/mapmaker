@@ -1,5 +1,6 @@
 // Load required modules
 var
+    path    = require("path"),
     http    = require("http"),            // http server core module
     express = require("express"),           // web framework external module
     io      = require("socket.io"),         // web socket external module
