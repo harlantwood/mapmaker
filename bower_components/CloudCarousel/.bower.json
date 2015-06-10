@@ -1,0 +1,13 @@
+{
+  "name": "CloudCarousel",
+  "homepage": "https://github.com/Connoropolous/CloudCarousel",
+  "_release": "430221594b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "430221594bee82706df01575924cb0b1ccdaaad9"
+  },
+  "_source": "https://github.com/Connoropolous/CloudCarousel.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/Connoropolous/CloudCarousel.git"
+}

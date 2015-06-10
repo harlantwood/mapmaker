@@ -1,0 +1,13 @@
+{
+  "name": "hogan",
+  "homepage": "https://github.com/Connoropolous/Hogan",
+  "_release": "39b32fda59",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "39b32fda5940bb920c3df8340a63739637ed3723"
+  },
+  "_source": "https://github.com/Connoropolous/Hogan.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/Connoropolous/Hogan.git"
+}

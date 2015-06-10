@@ -1,0 +1,13 @@
+{
+  "name": "embedly",
+  "homepage": "https://github.com/Connoropolous/embedly",
+  "_release": "de7747b05d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "de7747b05d0502176a7fb1edc3d2d011de0dae25"
+  },
+  "_source": "https://github.com/Connoropolous/embedly.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/Connoropolous/embedly.git"
+}
