@@ -6,7 +6,7 @@ module.exports = {
 		'uglify'
 	],
 	init: [
-		'copy:init',
+		'copy:init'
 	],
 	dist: [
 		'jshint',
